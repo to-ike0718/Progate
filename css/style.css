@@ -17,3 +17,19 @@
   list-style:none;
   padding:30px 20px;
 }
+
+.content h1 {
+  font-size:140px;
+}
+
+.content span{
+  color:red;
+}
+
+.content h2 {
+  font-size:50px;
+}
+
+.lesson-language{
+  float:left;
+}
