@@ -18,6 +18,9 @@
   padding:30px 20px;
 }
 
+.main{
+  padding:100px 80px;
+}
 .content h1 {
   font-size:140px;
 }
@@ -30,6 +33,36 @@
   font-size:50px;
 }
 
+.lesson{
+  margin-top: 80px;
+  height:500px;
+}
+.section-title{
+  font-size:30px;
+  border-bottom: 2px solid #dee7ec;
+}
+
 .lesson-language{
   float:left;
+  margin-right:40px;
+}
+
+.footer{
+  height:150px;
+  background-color:#000033;
+  color:white;
+}
+
+.footer-logo{
+  float:left
+  font-size:32px;
+}
+
+.footer-list {
+  float:right;
+  
+}
+.footer-list li{
+  margin:20px 20px;
+  list-style:none;
 }
